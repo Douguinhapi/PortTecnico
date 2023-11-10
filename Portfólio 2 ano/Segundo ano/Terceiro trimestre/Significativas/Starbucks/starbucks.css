@@ -1,0 +1,29 @@
+.Imagemcopo{
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 0%;
+    width: auto;
+}
+.imagemcopos{
+    color: rgb(0, 0, 0);
+    height: 3%;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Parágrafos{
+    color: rgb(11, 143, 88);
+    text-align: center
+}
+
+#meuBotao { 
+    background-color: aliceblue; /* esse precisa do "#" porque é id */
+}
+
+#meuBotao.trocado {
+    background-color: #000000; /* Cor do fundo após o clique */
+}
+
