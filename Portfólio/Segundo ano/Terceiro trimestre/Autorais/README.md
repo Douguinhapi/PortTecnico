@@ -1,3 +1,0 @@
-# Significativa
-1° AUTORAL: Na minha primeira autoral, eu pensei em colocar meu trabalho do mundo senai, que foi um app para reduzir o nivel de ansiedade e depressao do usuário, pensando nisso vemos o quanto esse trabalho ajudou a nós, a evoluir mentalmente, Essas são algumas das telas que tem, na esquerda é um bloco de notas onde fica salvo as emoções das pessoas que estava sentindo no momento, e na direita é quando clica em cima do personagem, ele mostra uma mensagem para melhorar seu dia.  
-2° AUTORAL: na segunda autoral, a gente fez parte de uma equipe na mostra steam, nesse projeto a gente fez um experimento com óptica geométrica chamado monga, onde visa transformar um ser humano em um macaco. 

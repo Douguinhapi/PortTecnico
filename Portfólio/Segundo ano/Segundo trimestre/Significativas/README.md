@@ -1,3 +1,0 @@
-# Significativa
-1° significativa: Na primeira atividade foi muito interessante, pois tivemos que calcular muitas coisa sobre redes e servidores... 
-2° significativa: Nessa segunda atividade nós tivemos que colocar alguma experiencia de governança na nossa vida ou citar o que era a tal governança 
