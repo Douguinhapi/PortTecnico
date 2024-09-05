@@ -1,3 +1,4 @@
 # Significativa
-1° significativa: Na primeira atividade foi muito interessante, pois tivemos que calcular muitas coisa sobre redes e servidores... 
-2° significativa: Nessa segunda atividade nós tivemos que colocar alguma experiencia de governança na nossa vida ou citar o que era a tal governança 
+1° significativa: https://github.com/Douguinhapi/Projetos/tree/main/EnsinoMedio/SingUp/AppSingup, nessa primeira atividade de desenvolvimento mobile, nós produzimos um site mobile de algum banco, foi muito útil para nosso desenvolvimento profissional.
+2° significativa: https://www.canva.com/design/DAGJU9m3eLg/2JNiRlyL1_fdqpQEYJ9tcQ/edit?utm_content=DAGJU9m3eLg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton, nessa atividade, fizemos um canva apresentação para os teste de sistemas, foi muito útil para a nossa eloquencia.
+3° significativa: https://www.canva.com/design/DAGCxQXTdAU/XZbijCQ5g_pEuI-hJ8LDmw/edit?utm_content=DAGCxQXTdAU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton, nessa atividade aprendemos mais sobre api, algo que possuimos MUITA dificuldade ainda, seria interessante os professores reverem!!!
