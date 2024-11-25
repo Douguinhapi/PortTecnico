@@ -1,1 +1,5 @@
-a
+1° Atividade: https://github.com/Douguinhapi/Documents Esta atividade consistiu na criação de uma réplica do Spotify, que teve como objetivo aprimorar nossas habilidades em React Native. O processo foi extremamente enriquecedor e contribuiu significativamente para o nosso desenvolvimento técnico.
+
+2° Atividade: https://github.com/Douguinhapi/endToend Nesta atividade, realizamos um teste de sistema end-to-end, o que foi fundamental para que os alunos, assim como eu, adquiríssemos uma compreensão mais profunda sobre esse tipo de teste.
+
+3° Atividade: https://docs.google.com/document/d/1LeNBMtGF0g3Rl-Oau5AdAwszVE-gI5ZDKyKaajLdk7s/edit?usp=sharing Nesta atividade, realizamos um documento com códigos de banco de dados, para aprimorarmos nossas habilidades na área!
